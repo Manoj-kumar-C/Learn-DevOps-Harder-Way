@@ -4,6 +4,8 @@
 Important Topics: 
 
 ```
+Linux Fundamentals
+AWS
 Github Hooks
 Jenkins
 Ansible
